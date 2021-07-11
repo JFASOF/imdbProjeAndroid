@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">imdbProje</string>
+    <!-- EditText Control Hint -->
+    <string name="movie_name_text_hint">Film Adını Giriniz (Gerekli)</string>
+    <string name="movie_year_text_hint">Film Adını Giriniz (İsteğe Bağlı)</string>
+
+    <!-- Button Texts -->
+    <string name="search_button_text">Film Ara</string>
+
+    <!-- Constants -->
+    <string name="api_url">https://www.omdbapi.com/?plot=full&amp;apikey=2ac61cbd&amp;t=</string>
+</resources>
